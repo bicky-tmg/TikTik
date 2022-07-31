@@ -2303,9 +2303,9 @@
   "resolved" "https://registry.npmjs.org/yaml/-/yaml-1.10.2.tgz"
   "version" "1.10.2"
 
-"zustand@^4.0.0-rc.1":
-  "integrity" "sha512-BP35Rq40GBTKKtYyjLuZogzXGh289xqO8U8ivGIK43nRqURD2dEEImkUci1/jWRUz7J1OPJkUZuNySCho801gQ=="
-  "resolved" "https://registry.npmjs.org/zustand/-/zustand-4.0.0-rc.4.tgz"
-  "version" "4.0.0-rc.4"
+"zustand@^4.0.0":
+  "integrity" "sha512-OrsfQTnRXF1LZ9/vR/IqN9ws5EXUhb149xmPjErZnUrkgxS/gAHGy2dPNIVkVvoxrVe1sIydn4JjF0dYHmGeeQ=="
+  "resolved" "https://registry.npmjs.org/zustand/-/zustand-4.0.0.tgz"
+  "version" "4.0.0"
   dependencies:
     "use-sync-external-store" "1.2.0"
